@@ -1,0 +1,14 @@
+Package: com.hussein.ios27theme
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Hussein - X
+Filename: debs/com.hussein.ios27theme.deb
+Size: 9752048
+MD5sum: 94e482305d69ff02f750218889a04cc7
+SHA1: 1532a6fdf59df58a669a1cc9d687695305be8b64
+SHA256: fc0bb85cfb701e98f98c84053d5fadcc03c96d91f861d1017ecb5f44de911909
+Section: Themes
+Description: Experience a clean and modern iOS 27 visual upgrade. X Theme iOS 27 is a modular theme pack built for customization lovers who want a premium and consistent UI across the entire system. Includes: SpringBoard Icons, Badges (V1 & V2 styles), Settings Icons support. Designed for performance, clarity, and a smooth iOS aesthetic. Bring a refined iOS 27 look to your device.
+Author: Hussein - X
+Name: X Theme iOS 27
+
