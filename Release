@@ -1,7 +1,8 @@
 Origin: HussXDev
 Label: HussXDev
 Suite: stable
-Codename: ios
+Codename: stable
+Version: 1.1
 Architectures: iphoneos-arm64
 Components: main
 Description: HussXDev - Universal tweaks, themes and utilities repository
