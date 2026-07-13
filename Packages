@@ -16,7 +16,7 @@ Package: com.hussein.romanpassreborn
 Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: Hussein
-Filename: debs/com.hussein.romanpassreborn.deb
+Filename: debs/com.hussein.romanpassreborn_1.0.0.deb
 Size: 4016
 MD5sum: 020fd68926780f8c1f6e2f24e700402c
 SHA1: f3efb9f69912a24d2ba74ab0d5804db8f3fca8a
@@ -25,4 +25,3 @@ Section: Tweaks
 Description: Roman Passcode Reborn replaces the standard numeric keypad with beautifully styled Roman numerals, creating a distinctive and elegant lock screen experience. Built to integrate naturally with iOS while maintaining the familiar passcode workflow.
 Author: Hussein
 Name: Roman Passcode Reborn
-
