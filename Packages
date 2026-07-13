@@ -11,17 +11,3 @@ Section: Themes
 Description: Experience a clean and modern iOS 27 visual upgrade. X Theme iOS 27 is a modular theme pack built for customization lovers who want a premium and consistent UI across the entire system. Includes: SpringBoard Icons, Badges (V1 & V2 styles), Settings Icons support. Designed for performance, clarity, and a smooth iOS aesthetic. Bring a refined iOS 27 look to your device.
 Author: Hussein - X
 Name: X Theme iOS 27
-
-Package: com.hussein.romanpassreborn
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: Hussein
-Filename: debs/com.hussein.romanpassreborn_1.0.0.deb
-Size: 4016
-MD5sum: 020fd68926780f8c1f6e2f24e700402c
-SHA1: f3efb9f69912a24d2ba74ab0d5804db8f3fca8a
-SHA256: 1e4c540cacc322eebeff8e105c63eb9cb8a1bdf801a1e8a2dafbbfe30b455841
-Section: Tweaks
-Description: Roman Passcode Reborn replaces the standard numeric keypad with beautifully styled Roman numerals, creating a distinctive and elegant lock screen experience. Built to integrate naturally with iOS while maintaining the familiar passcode workflow.
-Author: Hussein
-Name: Roman Passcode Reborn
